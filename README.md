@@ -5,4 +5,11 @@ This assignment aims to leverage __Docker__ and __Python__ to develop a program 
 > By scanning the QR code with a smartphone camera, users can easily access and be redirected to the designated web page. For this project, the encoded URL will lead to my GitHub homepage: [*https://github.com/NageshKanneganti*](https://github.com/NageshKanneganti).
 
 ## GitHub homepage QR
-![GitHubQR](QR_Code/GitHubQR.png)
+![GitHubQR](EmbeddedFiles/GitHubQR.png)
+
+## Viewing Logs
+> VS Code
+![VS Code logging](EmbeddedFiles/VSCodeLog.png)
+
+> Docker
+![Docker Log](EmbeddedFiles/DockerLogs.png)
